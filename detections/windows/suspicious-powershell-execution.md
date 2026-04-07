@@ -48,9 +48,10 @@ Validate the user context, parent process, command line, and related host activi
 4. Pivot to surrounding events ±15 minutes.
 5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
 
-## Screenshot Placement
-### Screenshot 1 — Detection Search Results
+## Screenshot Evidence
+
+### Detection Results
 ![Suspicious PowerShell Execution Detection](../../screenshots/windows/suspicious-powershell-execution-detection.png)
 
-### Screenshot 2 — Event Details
+### Event Details
 ![Suspicious PowerShell Execution Event Details](../../screenshots/windows/suspicious-powershell-execution-event-details.png)
