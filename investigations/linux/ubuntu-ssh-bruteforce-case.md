@@ -39,15 +39,15 @@ In a real environment, this could indicate credential guessing or pre-compromise
 - Process / auth details
 - Command lines or usernames observed
 
-## Screenshots to Capture
-### Screenshot 1 — Offense Overview
-![Offense 001 Overview](../../screenshots/linux/ubuntu-ssh-bruteforce-case-overview.png)
+## Screenshots
+###  Offense Overview
+![Offense 001 Overview](../../screenshots/linux/ubuntu-ssh-bruteforce-offense-overview.png)
 
-### Screenshot 2 — Detection Search
-![Detection Search](../../screenshots/linux/ubuntu-ssh-bruteforce-case-detection.png)
+###  Detection Search
+![Detection Search](../../screenshots/linux/ubuntu-ssh-bruteforce-detection-search.png)
 
-### Screenshot 3 — Event Detail
-![Event Detail](../../screenshots/linux/ubuntu-ssh-bruteforce-case-event-detail.png)
+###  — Event Detail
+![Event Detail](../../screenshots/linux/ubuntu-ssh-bruteforce-event-detail.png)
 
 ## Conclusion
 The Linux authentication telemetry was successfully collected and the simulated behavior was clearly observable in Splunk.
