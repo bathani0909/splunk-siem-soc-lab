@@ -29,6 +29,6 @@ index=* source="/var/log/auth.log" "192.168.101.128"
 | sort - _time
 ```
 
-## Screenshot Placement
-### Screenshot 1 — Ubuntu Auth Log Activity
+## Screenshot 
+### Ubuntu Auth Log Activity
 ![Ubuntu Auth Activity](screenshots/linux/ubuntu-auth-activity.png)
