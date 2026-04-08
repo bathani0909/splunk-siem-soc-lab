@@ -46,7 +46,7 @@ Review the username list, source IP, and timing pattern. Large sets of diverse u
 4. Pivot to surrounding events ±15 minutes.
 5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
 
-## Screenshot Placement
+## Screenshot 
 ### Screenshot 1 — Detection Search Results
 ![Invalid Linux User Enumeration Detection](../../screenshots/linux/invalid-linux-user-enumeration-detection.png)
 
