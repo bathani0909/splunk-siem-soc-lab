@@ -53,6 +53,5 @@ index=windows EventCode=4688
 
 **Note:** Add panels here after Sysmon is installed and validated.
 
-## Screenshot Placement
 ### Screenshot 1 — Dashboard Overview
-![Dashboard Overview](../screenshots/windows/dashboard-overview.png)
+![Dashboard Overview](../screenshots/dashboard-overview.png)
