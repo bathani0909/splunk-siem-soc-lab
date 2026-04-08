@@ -82,13 +82,14 @@ See the folder tree in this repository for detections, attack simulation scripts
 4. Review the detections and investigations.
 5. Capture screenshots and place them in the referenced `screenshots/` folders.
 
-## Screenshot Placement Guidance
-When a markdown file includes screenshot placeholders like this:
 
-### Screenshot 1 — Offense Overview
-![Offense 001 Overview](../screenshots/offense-001-overview.png)
+## Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-replace the file path with your actual screenshot path if needed and place the image in the matching `screenshots/` folder.
+## Lab Architecture
+![Lab Architecture](screenshots/lab-architecture.png)
+
+
 
 ## Notes
 - This project is intended for **defensive security**, **SOC portfolio development**, and **SIEM learning**.
