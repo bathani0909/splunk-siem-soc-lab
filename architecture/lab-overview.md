@@ -23,9 +23,8 @@ Build a practical SOC / SIEM lab to generate, detect, and investigate realistic 
 - User / group / service / task changes
 - Reconnaissance activity
 
-## Screenshot Placement
 ### Screenshot 1 — Lab Architecture
-![Lab Architecture](../screenshots/windows/lab-architecture.png)
+![Lab Architecture](../screenshots/lab-architecture.png)
 
 ### Screenshot 2 — Splunk Search Head
-![Splunk Search Head](../screenshots/windows/splunk-search-head.png)
+![Splunk Search Head](../screenshots/splunk-search-head.png)
