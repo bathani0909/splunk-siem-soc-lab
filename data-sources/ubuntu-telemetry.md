@@ -31,4 +31,5 @@ index=* source="/var/log/auth.log" "192.168.101.128"
 
 ## Screenshot 
 ### Ubuntu Auth Log Activity
+
 ![Ubuntu Auth Activity](screenshots/linux/ubuntu-auth-activity.png)
