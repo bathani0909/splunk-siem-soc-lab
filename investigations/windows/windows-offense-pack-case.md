@@ -43,7 +43,7 @@ In a real environment, these behaviors can represent execution, persistence, def
 - Process / auth details
 - Command lines or usernames observed
 
-## Screenshots to Capture
+## Screenshots 
 ### Screenshot 1 — Offense Overview
 ![Offense 001 Overview](../../screenshots/windows/windows-offense-pack-case-overview.png)
 
