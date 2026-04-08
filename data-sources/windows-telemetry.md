@@ -35,6 +35,6 @@ index=windows (EventCode=4688 OR EventCode=4103 OR EventCode=4104)
 | sort - count
 ```
 
-## Screenshot Placement
-### Screenshot 1 — Windows Telemetry Validation
+## Screenshot 
+###  Windows Telemetry Validation
 ![Windows Telemetry Validation](screenshots/windows/windows-telemetry-validation.png)
