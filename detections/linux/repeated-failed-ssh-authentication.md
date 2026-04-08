@@ -47,7 +47,7 @@ Confirm the source IP, target usernames, and whether the source host is authoriz
 4. Pivot to surrounding events ±15 minutes.
 5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
 
-## Screenshot Placement
+## Screenshot
 ### Screenshot 1 — Detection Search Results
 ![Repeated Failed SSH Authentication Attempts Detection](../../screenshots/linux/repeated-failed-ssh-authentication-detection.png)
 
