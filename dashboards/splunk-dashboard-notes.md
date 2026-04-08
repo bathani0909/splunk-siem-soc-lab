@@ -48,10 +48,7 @@ index=windows EventCode=4688
 | top limit=20 New_Process_Name
 ```
 
-### 6) Sysmon Overview
-**Purpose:** Placeholder for future Sysmon onboarding
 
-**Note:** Add panels here after Sysmon is installed and validated.
 
-### Screenshot 1 — Dashboard Overview
+### Dashboard Overview
 ![Dashboard Overview](../screenshots/dashboard-overview.png)
