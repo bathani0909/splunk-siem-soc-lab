@@ -45,7 +45,7 @@ Validate the user context, parent process, command line, and related host activi
 4. Pivot to surrounding events ±15 minutes.
 5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
 
-## Screenshot Placement
+## Screenshot
 ### Screenshot 1 — Detection Search Results
 ![Scheduled Task Creation Detection](../../screenshots/windows/scheduled-task-creation-detection.png)
 
